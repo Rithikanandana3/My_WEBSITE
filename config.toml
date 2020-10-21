@@ -100,7 +100,7 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "Trump approval ratings analysis"
       subtitle = "Feugiat Amet Tempus"
-      image = "pic02.jpg"
+      image = "finance.png"
       url = "blogs/Blog6"
 
     #[[params.tiles.showcase]]
