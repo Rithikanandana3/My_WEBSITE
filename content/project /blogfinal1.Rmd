@@ -1,21 +1,17 @@
 ---
 title: "IMBD Movies Analysis"
 author: "Rithika Satish"
-date: "21-Oct"
-draft: false
-slug: blogs
-output:
-  html_document:
-    theme: flatly
-    highlight: zenburn
-    number_sections: yes
-    toc: yes
-    toc_float: yes
-    code_folding: show
+date: '2017-10-31T22:27:21-05:00'
+description: Analysing director ratings
+image: pic02.jpg
+keywords: ''
+slug: blogfinal1
+draft: no
+categories: -"" -""
 ---
 
 
-```{r, setup, echo=FALSE}
+```{r, setup}
 knitr::opts_chunk$set(
   message = FALSE, 
   warning = FALSE, 
