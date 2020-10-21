@@ -1,7 +1,9 @@
 ---
 title: "IMBD Movies Analysis"
 author: "Rithika Satish"
-date: "`r Sys.Date()`"
+date: "21-Oct"
+draft: false
+slug: blogs
 output:
   html_document:
     theme: flatly

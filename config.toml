@@ -82,7 +82,6 @@ disqusShortname = ""
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
     title = "Hi, my name is Rithika"
-    subtitle = "A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP\nAND RELEASED UNDER THE CREATIVE COMMONS."
     buttonText = "Get Started"
 
 
@@ -92,16 +91,16 @@ disqusShortname = ""
     # Display your showcases here.
     
     [[params.tiles.showcase]]
-      title = "Stock Returns"
-      subtitle = "Ipsum Dolor Sit Amet"
+      title = "IMBD Movie Analysis"
+      subtitle = "Comparision of movie stats"
       image = "pic01.jpg"
-      url = "blogs/Blog5"
+      url = "project/blogfinal1"
 
-    [[params.tiles.showcase]]
-      title = "Trump approval ratings analysis"
-      subtitle = "Feugiat Amet Tempus"
-      image = "finance.png"
-      url = "blogs/Blog6"
+    #[[params.tiles.showcase]]
+      #title = "Trump approval ratings analysis"
+      #subtitle = "Feugiat Amet Tempus"
+      #image = "finance.png"
+      #url = "blogs/Blog6"
 
     #[[params.tiles.showcase]]
      # title = "COVID-19 Public Use Data"
