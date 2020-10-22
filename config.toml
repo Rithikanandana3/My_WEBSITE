@@ -96,17 +96,17 @@ disqusShortname = ""
       image = "pic01.jpg"
       url = "project/blogfinal1"
 
-    #[[params.tiles.showcase]]
-      #title = "Trump approval ratings analysis"
-      #subtitle = "Feugiat Amet Tempus"
-      #image = "finance.png"
-      #url = "blogs/Blog6"
+    [[params.tiles.showcase]]
+      title = "Trump approval ratings analysis"
+      subtitle = "Feugiat Amet Tempus"
+      image = "finance.png"
+      url = "blogs/Blog6"
 
-    #[[params.tiles.showcase]]
-     # title = "COVID-19 Public Use Data"
-      #subtitle = "Lorem Etiam Nullam"
-      #image = "pic03.jpg"
-      #url = "blogs/magna"
+    [[params.tiles.showcase]]
+     title = "MY BIO"
+      subtitle = "My story"
+      image = "pic03.jpg"
+      url = "blogs/project/blogfinal2"
 
     #[[params.tiles.showcase]]
       #title = "Ipsum"

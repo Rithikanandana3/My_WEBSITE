@@ -1,0 +1,33 @@
+---
+title: "MY BIO"
+author: "Rithika Satish"
+date: '2017-10-31T22:27:21-05:00'
+description: Comparision of movie stats
+image: pic02.jpg
+keywords: ''
+slug: blogfinal2
+draft: no
+---
+
+
+
+```{r, setup}
+knitr::opts_chunk$set(
+  message = FALSE, 
+  warning = FALSE, 
+  tidy=FALSE,     # display code as typed
+  size="small")   # slightly smaller font for code
+options(digits = 3)
+
+# default figure size
+knitr::opts_chunk$set(
+  fig.width=6.75, 
+  fig.height=6.75,
+  fig.align = "center"
+)
+```
+```
+
+#This is my story 
+
+Hailing from Asia, I am Rithika Satish. While I’m originally from Mumbai, India, I have spent the last four years in Singapore. Growing up I moved between several cities in India, 9 to be precise.In high school I took a keen interest in Mathematics and Social Studies and decided that I wanted to bring these two interests together to study Economics. I pursued Economics at Singapore Management University.While Economics will always be my passion, I have come to love finance too. I wish to create long-term impact on companies and industries by being engaged in advisory services related to Mergers and Acquisitions. My hobbies include tennis and fencing.Im also a foodie at heart and love trying new cuisines out. I recently tried African cuisine for the first time and loved it.
